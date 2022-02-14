@@ -10,6 +10,10 @@ Feeling like an eager beaver? Jump in to the quick start docs and get making you
 
 {% embed url="https://lanscarlos.gitbook.io/vulpecular#kai-yuan-di-zhi" %}
 
+{% content-ref url="reference/api-reference/pets.md" %}
+[pets.md](reference/api-reference/pets.md)
+{% endcontent-ref %}
+
 {% embed url="https://lanscarlos.gitbook.io/vulpecular#kai-yuan-di-zhi" %}
 asdasdas
 {% endembed %}
