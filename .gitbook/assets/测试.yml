@@ -1,0 +1,26 @@
+Title: '&1标题'
+
+Layout:
+  - '# # # # #'
+  - ' A B A'
+  - '#########'
+
+Icons:
+  A:
+    display:
+      material: 'Painting'
+      name: '公告'
+      lore:
+      - '欢迎来到xxx'
+      - '这是测试lore'
+  B:
+    display:
+      material: 'EMERALD'
+      name: '商城'
+      lore:
+      - '这是商城'
+      - '哈哈哈'
+  '#':
+    display:
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+      name: '装饰板'
